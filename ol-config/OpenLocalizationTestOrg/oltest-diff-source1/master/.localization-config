@@ -1,0 +1,16 @@
+{
+  "filters": [
+    {
+      "files": [ "**/*.md" ],
+      "priorities": [
+        {
+          "priority": "ht",
+          "locales": [ "zh-cn"]
+        }
+      ]
+    }
+  ],
+  "includeDependencies": true,
+  "autoPush": true,
+  "xliffVersion": "1.2"
+}
